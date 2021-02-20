@@ -2,6 +2,6 @@
 
 ### Learning new things
 
--git
--branch
--console
+1. git
+2. branch
+3. console
